@@ -1,0 +1,10 @@
+[
+    {
+        "title": "Learn Python OOP",
+        "done": true
+    },
+    {
+        "title": "Build a CLI app",
+        "done": false
+    }
+]
